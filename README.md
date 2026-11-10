@@ -80,7 +80,7 @@ By combining **Large Language Models (LLMs), Retrieval-Augmented Generation (RAG
 >
 > The repository is intended to showcase the engineering methodology and research work while respecting confidentiality requirements.
 
-📘 **Project Report:** Available in the repository files.
+📘 📘 **[Read the Full Capstone Report](SaharBahloul_Capstone Project Report.pdf)**
 
 ---
 
